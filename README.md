@@ -1,2 +1,0 @@
-# TerraformPractice
-# TerraformPractice
